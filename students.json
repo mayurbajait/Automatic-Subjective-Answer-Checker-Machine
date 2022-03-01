@@ -1,0 +1,92 @@
+{
+    "0": {
+        "id": 390,
+        "name": "Kimberly Clark",
+        "address": "220 Ryan Port\nWest David, CO 08927",
+        "latitude": "47.7456475",
+        "longitude": "62.389434",
+        "phno": "(035)258-7976x766",
+        "profile": "{'job': 'Teaching laboratory technician', 'company': 'Mitchell-Woodward', 'ssn': '640-08-2406', 'residence': '185 Patrick Route Apt. 263\\nWest Dylanmouth, IN 81936', 'current_location': (Decimal('62.4848155'), Decimal('170.930770')), 'blood_group': 'B-', 'website': ['https://rodriguez.biz/', 'https://www.white.com/'], 'username': 'ronald23', 'name': 'Jennifer Nguyen', 'sex': 'F', 'address': '84643 Adams Key\\nJessicahaven, MS 07043', 'mail': 'smithjoshua@gmail.com', 'birthdate': datetime.date(1997, 12, 16)}"
+    },
+    "1": {
+        "id": 826,
+        "name": "Isaac Miller",
+        "address": "78036 Moore View\nLake Anthonyfort, PA 57355",
+        "latitude": "82.4635485",
+        "longitude": "-177.491691",
+        "phno": "(265)176-0303x67783",
+        "profile": "{'job': 'Engineer, chemical', 'company': 'Rice Group', 'ssn': '331-45-6409', 'residence': '1747 Bryan Corner\\nRamirezview, AR 36062', 'current_location': (Decimal('-28.851620'), Decimal('-22.150689')), 'blood_group': 'AB+', 'website': ['https://donovan.com/', 'http://robertson.net/'], 'username': 'reevesmichael', 'name': 'Carrie Trujillo', 'sex': 'F', 'address': '206 Samuel Brook Apt. 290\\nPaulburgh, AL 51224', 'mail': 'lorigarrison@gmail.com', 'birthdate': datetime.date(1924, 8, 18)}"
+    },
+    "2": {
+        "id": 793,
+        "name": "Amy Jones",
+        "address": "1868 Paul Harbors\nLake Stevenmouth, CT 16187",
+        "latitude": "-75.1557285",
+        "longitude": "-117.267883",
+        "phno": "315-954-8157x684",
+        "profile": "{'job': 'Technical sales engineer', 'company': 'Casey PLC', 'ssn': '531-86-3149', 'residence': '33068 Lopez Inlet Apt. 211\\nCoryside, RI 31358', 'current_location': (Decimal('-9.3278205'), Decimal('-168.757164')), 'blood_group': 'A+', 'website': ['http://www.hernandez.com/', 'https://www.brown.com/', 'http://www.houston.com/'], 'username': 'bethharris', 'name': 'Stephen Jenkins', 'sex': 'M', 'address': '886 Jared Shoals Apt. 447\\nSmithchester, NM 49045', 'mail': 'smitheric@hotmail.com', 'birthdate': datetime.date(1987, 10, 29)}"
+    },
+    "3": {
+        "id": 896,
+        "name": "Jason Castillo",
+        "address": "774 Monroe Crossing Suite 027\nToddland, MI 97102",
+        "latitude": "4.8392305",
+        "longitude": "130.992515",
+        "phno": "914.095.7616x4046",
+        "profile": "{'job': 'Engineer, electrical', 'company': 'Murphy-Craig', 'ssn': '593-90-6449', 'residence': '073 Hernandez Glen Suite 214\\nWest Alexisbury, OR 72073', 'current_location': (Decimal('59.6573075'), Decimal('-98.288144')), 'blood_group': 'B-', 'website': ['https://www.vega.biz/', 'https://www.gonzales.com/'], 'username': 'peterkaufman', 'name': 'Timothy Smith', 'sex': 'M', 'address': '0621 Frey Trafficway\\nBennettbury, WV 56422', 'mail': 'russellshaffer@hotmail.com', 'birthdate': datetime.date(2019, 5, 8)}"
+    },
+    "4": {
+        "id": 463,
+        "name": "Kimberly Reid",
+        "address": "PSC 5357, Box 8883\nAPO AE 23278",
+        "latitude": "16.8714745",
+        "longitude": "-11.422249",
+        "phno": "243.328.8754",
+        "profile": "{'job': 'Trading standards officer', 'company': 'Smith, Adkins and Moore', 'ssn': '523-25-1606', 'residence': '407 Thomas Circle Suite 254\\nVirginiabury, DC 16964', 'current_location': (Decimal('19.4303795'), Decimal('-167.944893')), 'blood_group': 'O+', 'website': ['https://cooper.com/'], 'username': 'avasquez', 'name': 'Amanda Mccall', 'sex': 'F', 'address': '560 Samantha Mountain\\nNew Mariaport, MN 05055', 'mail': 'clifford16@yahoo.com', 'birthdate': datetime.date(1985, 5, 30)}"
+    },
+    "5": {
+        "id": 700,
+        "name": "Wayne Grimes",
+        "address": "2522 Scott Loop\nSantosmouth, MT 85260",
+        "latitude": "73.038449",
+        "longitude": "74.216803",
+        "phno": "198-310-5697",
+        "profile": "{'job': 'Production engineer', 'company': 'Hoffman Ltd', 'ssn': '032-20-9624', 'residence': '9259 Davidson Rue\\nWilsonborough, TN 23747', 'current_location': (Decimal('-7.300823'), Decimal('82.753408')), 'blood_group': 'B+', 'website': ['http://lee.com/', 'https://www.anderson-king.com/', 'https://www.taylor.com/'], 'username': 'eortiz', 'name': 'Susan Strickland', 'sex': 'F', 'address': '033 Davis Passage\\nPort Evan, ME 55403', 'mail': 'murphyrebecca@yahoo.com', 'birthdate': datetime.date(1943, 3, 4)}"
+    },
+    "6": {
+        "id": 863,
+        "name": "Amy Keller",
+        "address": "96532 Reed Cove\nRobertsonside, MA 55227",
+        "latitude": "37.463475",
+        "longitude": "8.730684",
+        "phno": "(621)232-0724x112",
+        "profile": "{'job': 'Accountant, chartered certified', 'company': 'Gonzales, Richardson and Park', 'ssn': '180-16-3840', 'residence': '24064 Tracy Cape\\nWest Alex, KY 42705', 'current_location': (Decimal('-69.862376'), Decimal('-54.450654')), 'blood_group': 'O-', 'website': ['http://www.mason-esparza.com/', 'https://petty.com/'], 'username': 'connerkatelyn', 'name': 'Tracy Mccoy', 'sex': 'F', 'address': '818 Tiffany Islands\\nLongport, AR 28748', 'mail': 'averymatthew@yahoo.com', 'birthdate': datetime.date(1932, 12, 5)}"
+    },
+    "7": {
+        "id": 340,
+        "name": "Lindsay Cortez",
+        "address": "9197 Thomas Estate Apt. 156\nNorth Danielmouth, DE 70241",
+        "latitude": "62.315199",
+        "longitude": "-145.544642",
+        "phno": "001-475-763-4066x327",
+        "profile": "{'job': 'Fisheries officer', 'company': 'Bailey LLC', 'ssn': '291-02-1346', 'residence': '48741 Joann Spring Suite 476\\nAshleystad, WI 14861', 'current_location': (Decimal('88.025183'), Decimal('130.072878')), 'blood_group': 'AB-', 'website': ['http://www.perkins.org/', 'http://lozano.com/'], 'username': 'paige64', 'name': 'Alexis Harrington', 'sex': 'F', 'address': '374 Odom Loaf\\nNealport, CA 65509', 'mail': 'campbellkaren@gmail.com', 'birthdate': datetime.date(1997, 10, 17)}"
+    },
+    "8": {
+        "id": 952,
+        "name": "David Ball",
+        "address": "80216 Schneider Extensions\nEast Amandaside, DE 99797",
+        "latitude": "-21.4761375",
+        "longitude": "-20.820201",
+        "phno": "+1-050-451-4481x294",
+        "profile": "{'job': 'Computer games developer', 'company': 'Dominguez, Maddox and Bowers', 'ssn': '027-03-5052', 'residence': '33131 English Hills Apt. 591\\nTranton, OR 01310', 'current_location': (Decimal('-52.936131'), Decimal('-102.707300')), 'blood_group': 'AB+', 'website': ['http://www.moore.biz/', 'https://hicks.com/', 'https://stone-howard.com/', 'https://www.evans.com/'], 'username': 'julie77', 'name': 'Cheyenne Quinn', 'sex': 'F', 'address': '202 Mendoza Path Apt. 546\\nAllenmouth, IN 63126', 'mail': 'dhernandez@gmail.com', 'birthdate': datetime.date(1958, 5, 6)}"
+    },
+    "9": {
+        "id": 552,
+        "name": "Anthony Garcia",
+        "address": "2816 Karen Freeway\nNorth Christianburgh, MT 39665",
+        "latitude": "-65.2168505",
+        "longitude": "-127.088954",
+        "phno": "+1-038-375-1276x0009",
+        "profile": "{'job': 'Education officer, museum', 'company': 'Palmer, Matthews and Finley', 'ssn': '763-15-4909', 'residence': 'USNS Dennis\\nFPO AA 02875', 'current_location': (Decimal('-44.5640615'), Decimal('85.492072')), 'blood_group': 'B+', 'website': ['http://www.edwards.net/', 'http://www.patton-watson.org/'], 'username': 'sjacobs', 'name': 'Andrew French', 'sex': 'M', 'address': 'PSC 2773, Box 8381\\nAPO AA 15186', 'mail': 'wdennis@gmail.com', 'birthdate': datetime.date(1953, 4, 2)}"
+    }
+}

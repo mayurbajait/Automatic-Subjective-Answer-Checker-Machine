@@ -1,0 +1,15 @@
+question and their answer
+ Question                                                                               Answer
+1. {full form of AI}                                                ('Artificial Intelligence',)
+
+2.{full form of DFS}                                            ('Depth First Search',)
+
+3.{{what is best first search'}}                          ('it is combination of BFS and DFS',)
+
+4.{{full form of CNF}}                                         ('clausal normal form',)
+
+5.{{full form of NLG}}                                       ('natural language generation',)
+
+6.{{full form of NLG}}                                       ('natural language generation',)
+
+7.{{main branches of AI}}                               ('Machine Learning',)
